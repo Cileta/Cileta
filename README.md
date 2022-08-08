@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cileta
 - 👀 I’m interested in JavaScript programming
-- 🌱 I’m currently learning JS nad ReactJS
+- 🌱 I’m currently learning JS and Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? -> dekic264@gmail.com
 
